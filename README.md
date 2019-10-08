@@ -20,3 +20,10 @@ Simply give assign class from Storyboard to UIView like **"JBar"**
 
 Customise it as your requirements by using its properties
 
+
+<img width="319" alt="Screenshot 2019-10-08 at 12 19 23 PM" src="https://user-images.githubusercontent.com/16849127/66368245-1a92ba80-e9ca-11e9-9541-d4ae84489c58.png">
+
+ **OR**
+  
+  You can do it programmatically like:
+  

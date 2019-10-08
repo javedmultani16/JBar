@@ -34,3 +34,6 @@ Customise it as your requirements by using its properties
 
 
 <img width="559" alt="Screenshot 2019-10-08 at 12 30 32 PM" src="https://user-images.githubusercontent.com/16849127/66368338-81b06f00-e9ca-11e9-952e-14f0f9ce40cf.png">
+
+
+<img width="546" alt="Screenshot 2019-10-08 at 12 28 24 PM" src="https://user-images.githubusercontent.com/16849127/66368379-a7d60f00-e9ca-11e9-9cd3-f084476e2c15.png">
